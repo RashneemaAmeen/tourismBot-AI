@@ -89,7 +89,7 @@ tourismaibot
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tourismaibot.git
+git clone https://github.com/RashneemaAmeen/tourismBot-AI
 
 cd tourismaibot
 ```
